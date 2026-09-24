@@ -1,1 +1,4 @@
-`int x = 5;`
+```python
+def hello():
+    print("Hello, world!")
+```
